@@ -2480,6 +2480,8 @@ The directory containing X.509 certificates used for
 :ref:`message-signing`. Can be a glob with wild-cards,
 (for example :file:`/etc/certs/*.pem`).
 
+.. setting:: security_digest
+
 ``security_digest``
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
