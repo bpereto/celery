@@ -2489,9 +2489,9 @@ Default: :const:`sha256`.
 
 .. versionadded:: 4.3
 
-An OpenSSL digest used to sign messages
+A cryptography digest used to sign messages
 when :ref:`message-signing` is used.
-https://pyopenssl.org/en/stable/api/crypto.html#digest-names
+https://cryptography.io/en/latest/hazmat/primitives/cryptographic-hashes/#module-cryptography.hazmat.primitives.hashes
 
 .. _conf-custom-components:
 
