@@ -9,8 +9,19 @@
 :Keywords: task, queue, job, async, rabbitmq, amqp, redis,
   python, distributed, actors
 
+Donations
+=========
+
+This project relies on your generous donations.
+
+If you are using Celery to create a commercial product, please consider becoming our `backer`_ or our `sponsor`_ to ensure Celery's future.
+
+.. _`backer`: https://opencollective.com/celery#backer
+.. _`sponsor`: https://opencollective.com/celery#sponsor
+
+
 Sponsors
-========
+--------
 
 |ImageLink|_
 
@@ -50,7 +61,7 @@ What do I need?
 Celery version 4.2 runs on,
 
 - Python (2.7, 3.4, 3.5, 3.6)
-- PyPy (5.8)
+- PyPy (6.0)
 
 
 This is the last version to support Python 2.7,
